@@ -16,7 +16,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 I am a recent B-Tech graduate in CSE (AIML) from Institute of Engineering And Management Kolkata  
+- 🎓 I am a recent 2025 B-Tech graduate in CSE (AIML) from Institute of Engineering And Management Kolkata  
 - 🏢 **Software Developer Intern @ CodeClause**  
 - 🔍 Interested in **Machine Learning, Computer Vision & Steganography**  
 - 🧪 Research-oriented with hands-on implementations  
@@ -49,7 +49,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,tailwind,mysql,aws,git,github,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,tailwind,mysql,aws,git,github,opencv,pandas,numpy,matplotlib,tensorflow,nodejs,npm,mongodb,postman,anaconda,vscode,eclipse,idea" />
 </p>
 
 ---
